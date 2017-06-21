@@ -1,0 +1,1503 @@
+[
+  {
+    "last_modified": {
+      "type": "/type/datetime",
+      "value": "2017-05-18T09:35:05.683067"
+    },
+    "title": "Zeit zu Leben und zeit zu Sterben",
+    "created": {
+      "type": "/type/datetime",
+      "value": "2009-12-11T06:44:15.745754"
+    },
+    "first_publish_date": "1959",
+    "latest_revision": 3,
+    "key": "/works/OL12363680W",
+    "authors": [
+      {
+        "type": {
+          "key": "/type/author_role"
+        },
+        "author": {
+          "key": "/authors/OL122169A"
+        }
+      }
+    ],
+    "type": {
+      "key": "/type/work"
+    },
+    "revision": 3
+  },
+  {
+    "created": {
+      "type": "/type/datetime",
+      "value": "2017-05-04T03:29:45.219061"
+    },
+    "title": "Wro g",
+    "covers": [
+      7965703
+    ],
+    "last_modified": {
+      "type": "/type/datetime",
+      "value": "2017-05-04T03:29:45.219061"
+    },
+    "latest_revision": 1,
+    "key": "/works/OL17691930W",
+    "authors": [
+      {
+        "type": {
+          "key": "/type/author_role"
+        },
+        "author": {
+          "key": "/authors/OL122169A"
+        }
+      }
+    ],
+    "subject_times": [
+      "20 w."
+    ],
+    "type": {
+      "key": "/type/work"
+    },
+    "subjects": [
+      "T\u00bfumaczenia polskie",
+      "Nowele niemieckie"
+    ],
+    "revision": 1
+  },
+  {
+    "title": "All Quiet on the Western Front\r\n            \r\n                Real Reads",
+    "created": {
+      "type": "/type/datetime",
+      "value": "2016-10-14T16:44:34.101820"
+    },
+    "covers": [
+      7740507
+    ],
+    "last_modified": {
+      "type": "/type/datetime",
+      "value": "2016-10-14T16:44:40.507583"
+    },
+    "latest_revision": 2,
+    "key": "/works/OL17519404W",
+    "authors": [
+      {
+        "type": {
+          "key": "/type/author_role"
+        },
+        "author": {
+          "key": "/authors/OL122169A"
+        }
+      }
+    ],
+    "type": {
+      "key": "/type/work"
+    },
+    "revision": 2
+  },
+  {
+    "first_publish_date": "1928",
+    "title": "All Quiet on the Western Front",
+    "created": {
+      "type": "/type/datetime",
+      "value": "2009-12-09T20:44:44.438509"
+    },
+    "covers": [
+      7238219,
+      6380522,
+      190142,
+      535117,
+      1010912,
+      5040712
+    ],
+    "subject_places": [
+      "Germany",
+      "France"
+    ],
+    "last_modified": {
+      "type": "/type/datetime",
+      "value": "2012-11-28T11:04:23.734822"
+    },
+    "subject_people": [
+      "Paul B\u00e4umer",
+      "Albert Kropp",
+      "Haie Westhus",
+      "Fredrich M\u00fcller",
+      "Stanislaus Katczinsky",
+      "Tjaden"
+    ],
+    "key": "/works/OL1209321W",
+    "authors": [
+      {
+        "type": {
+          "key": "/type/author_role"
+        },
+        "author": {
+          "key": "/authors/OL122169A"
+        }
+      }
+    ],
+    "latest_revision": 22,
+    "subject_times": [
+      "1914-1918"
+    ],
+    "type": {
+      "key": "/type/work"
+    },
+    "subjects": [
+      "Fiction",
+      "World War, 1914-1918",
+      "History",
+      "Juvenile fiction",
+      "Translations into English",
+      "German fiction",
+      "German language",
+      "Readers",
+      "Soldiers",
+      "Accessible book",
+      "Protected DAISY",
+      "In library"
+    ],
+    "revision": 22
+  },
+  {
+    "title": "Der Pazifist. Texte und Interviews 1929-1966",
+    "created": {
+      "type": "/type/datetime",
+      "value": "2010-09-24T11:30:37.985561"
+    },
+    "last_modified": {
+      "type": "/type/datetime",
+      "value": "2010-09-24T11:30:37.985561"
+    },
+    "latest_revision": 1,
+    "key": "/works/OL15381092W",
+    "authors": [
+      {
+        "type": {
+          "key": "/type/author_role"
+        },
+        "author": {
+          "key": "/authors/OL122169A"
+        }
+      }
+    ],
+    "type": {
+      "key": "/type/work"
+    },
+    "revision": 1
+  },
+  {
+    "title": "Der veg oyf tsurik",
+    "created": {
+      "type": "/type/datetime",
+      "value": "2010-09-24T11:30:39.445693"
+    },
+    "last_modified": {
+      "type": "/type/datetime",
+      "value": "2010-09-24T11:30:39.445693"
+    },
+    "latest_revision": 1,
+    "key": "/works/OL15381093W",
+    "authors": [
+      {
+        "type": {
+          "key": "/type/author_role"
+        },
+        "author": {
+          "key": "/authors/OL122169A"
+        }
+      }
+    ],
+    "type": {
+      "key": "/type/work"
+    },
+    "subjects": [
+      "World War, 1914-1918",
+      "Fiction"
+    ],
+    "revision": 1
+  },
+  {
+    "title": "Dharati\u0304 la\u0304lo la\u0304la",
+    "created": {
+      "type": "/type/datetime",
+      "value": "2010-09-24T11:30:40.201565"
+    },
+    "last_modified": {
+      "type": "/type/datetime",
+      "value": "2010-09-24T11:30:40.201565"
+    },
+    "latest_revision": 1,
+    "key": "/works/OL15381094W",
+    "authors": [
+      {
+        "type": {
+          "key": "/type/author_role"
+        },
+        "author": {
+          "key": "/authors/OL122169A"
+        }
+      }
+    ],
+    "type": {
+      "key": "/type/work"
+    },
+    "subjects": [
+      "World War, 1914-1918",
+      "Fiction"
+    ],
+    "revision": 1
+  },
+  {
+    "title": "Der Feind",
+    "created": {
+      "type": "/type/datetime",
+      "value": "2010-09-24T10:39:11.129726"
+    },
+    "covers": [
+      6596162,
+      6596173
+    ],
+    "last_modified": {
+      "type": "/type/datetime",
+      "value": "2010-09-24T20:36:38.566268"
+    },
+    "latest_revision": 3,
+    "key": "/works/OL15381080W",
+    "authors": [
+      {
+        "type": {
+          "key": "/type/author_role"
+        },
+        "author": {
+          "key": "/authors/OL122169A"
+        }
+      }
+    ],
+    "type": {
+      "key": "/type/work"
+    },
+    "revision": 3
+  },
+  {
+    "title": "Oyfn mayrev - nish\u1e6do \u1e33ayn nayes",
+    "created": {
+      "type": "/type/datetime",
+      "value": "2010-09-24T11:31:03.656713"
+    },
+    "last_modified": {
+      "type": "/type/datetime",
+      "value": "2010-09-24T11:31:03.656713"
+    },
+    "latest_revision": 1,
+    "key": "/works/OL15381108W",
+    "authors": [
+      {
+        "type": {
+          "key": "/type/author_role"
+        },
+        "author": {
+          "key": "/authors/OL122169A"
+        }
+      }
+    ],
+    "type": {
+      "key": "/type/work"
+    },
+    "revision": 1
+  },
+  {
+    "subtitle": "G\u0117m ; Stant\ufe20s\ufe21i\u00ed`a na gorizonte",
+    "title": "Pri\u00ed`ut grez",
+    "created": {
+      "type": "/type/datetime",
+      "value": "2010-09-24T11:31:05.171537"
+    },
+    "last_modified": {
+      "type": "/type/datetime",
+      "value": "2010-09-24T11:31:05.171537"
+    },
+    "latest_revision": 1,
+    "key": "/works/OL15381109W",
+    "authors": [
+      {
+        "type": {
+          "key": "/type/author_role"
+        },
+        "author": {
+          "key": "/authors/OL122169A"
+        }
+      }
+    ],
+    "subject_people": [
+      "Erich Maria Remarque (1898-1970)"
+    ],
+    "type": {
+      "key": "/type/work"
+    },
+    "subjects": [
+      "Translations into Russian"
+    ],
+    "revision": 1
+  },
+  {
+    "title": "Przystanek na horyzoncie",
+    "created": {
+      "type": "/type/datetime",
+      "value": "2010-09-24T11:31:06.601583"
+    },
+    "last_modified": {
+      "type": "/type/datetime",
+      "value": "2010-09-24T11:31:06.601583"
+    },
+    "latest_revision": 1,
+    "key": "/works/OL15381110W",
+    "authors": [
+      {
+        "type": {
+          "key": "/type/author_role"
+        },
+        "author": {
+          "key": "/authors/OL122169A"
+        }
+      }
+    ],
+    "type": {
+      "key": "/type/work"
+    },
+    "revision": 1
+  },
+  {
+    "subtitle": "mythistore\u0304ma",
+    "title": "O\u0304res agape\u0304s, o\u0304res polemou",
+    "created": {
+      "type": "/type/datetime",
+      "value": "2010-09-24T11:31:08.030547"
+    },
+    "last_modified": {
+      "type": "/type/datetime",
+      "value": "2010-09-24T11:31:08.030547"
+    },
+    "latest_revision": 1,
+    "key": "/works/OL15381111W",
+    "authors": [
+      {
+        "type": {
+          "key": "/type/author_role"
+        },
+        "author": {
+          "key": "/authors/OL122169A"
+        }
+      }
+    ],
+    "type": {
+      "key": "/type/work"
+    },
+    "revision": 1
+  },
+  {
+    "subtitle": "Erich Maria Remarque, Marlene Dietrich ; Zeugnisse einer Leidenschaft",
+    "title": "\"Sag mir, dass Du mich liebst--\"",
+    "created": {
+      "type": "/type/datetime",
+      "value": "2010-09-24T11:31:09.641047"
+    },
+    "last_modified": {
+      "type": "/type/datetime",
+      "value": "2010-09-24T11:31:09.641047"
+    },
+    "latest_revision": 1,
+    "key": "/works/OL15381112W",
+    "authors": [
+      {
+        "type": {
+          "key": "/type/author_role"
+        },
+        "author": {
+          "key": "/authors/OL122169A"
+        }
+      }
+    ],
+    "subject_people": [
+      "Marlene Dietrich",
+      "Erich Maria Remarque (1898-1970)"
+    ],
+    "type": {
+      "key": "/type/work"
+    },
+    "subjects": [
+      "Correspondence"
+    ],
+    "revision": 1
+  },
+  {
+    "title": "Oyfn mayrev-fron\u1e6d \u1e33eyn nayes",
+    "created": {
+      "type": "/type/datetime",
+      "value": "2010-09-24T11:31:35.172574"
+    },
+    "last_modified": {
+      "type": "/type/datetime",
+      "value": "2010-09-24T11:31:35.172574"
+    },
+    "latest_revision": 1,
+    "key": "/works/OL15381125W",
+    "authors": [
+      {
+        "type": {
+          "key": "/type/author_role"
+        },
+        "author": {
+          "key": "/authors/OL122169A"
+        }
+      }
+    ],
+    "type": {
+      "key": "/type/work"
+    },
+    "subjects": [
+      "World War, 1914-1918",
+      "Fiction"
+    ],
+    "revision": 1
+  },
+  {
+    "title": "Afn mayrev-fron\u1e6d iz rui\u1e33",
+    "created": {
+      "type": "/type/datetime",
+      "value": "2010-09-24T11:30:25.027069"
+    },
+    "last_modified": {
+      "type": "/type/datetime",
+      "value": "2010-09-24T11:30:25.027069"
+    },
+    "latest_revision": 1,
+    "key": "/works/OL15381085W",
+    "authors": [
+      {
+        "type": {
+          "key": "/type/author_role"
+        },
+        "author": {
+          "key": "/authors/OL122169A"
+        }
+      }
+    ],
+    "type": {
+      "key": "/type/work"
+    },
+    "revision": 1
+  },
+  {
+    "title": "Bia muo \u0111en",
+    "created": {
+      "type": "/type/datetime",
+      "value": "2010-09-24T11:30:28.918191"
+    },
+    "last_modified": {
+      "type": "/type/datetime",
+      "value": "2010-09-24T11:30:28.918191"
+    },
+    "latest_revision": 1,
+    "key": "/works/OL15381086W",
+    "authors": [
+      {
+        "type": {
+          "key": "/type/author_role"
+        },
+        "author": {
+          "key": "/authors/OL122169A"
+        }
+      }
+    ],
+    "type": {
+      "key": "/type/work"
+    },
+    "revision": 1
+  },
+  {
+    "title": "Bkan du ca curoi c\u00f9ng",
+    "created": {
+      "type": "/type/datetime",
+      "value": "2010-09-24T11:30:29.470270"
+    },
+    "last_modified": {
+      "type": "/type/datetime",
+      "value": "2010-09-24T11:30:29.470270"
+    },
+    "latest_revision": 1,
+    "key": "/works/OL15381087W",
+    "authors": [
+      {
+        "type": {
+          "key": "/type/author_role"
+        },
+        "author": {
+          "key": "/authors/OL122169A"
+        }
+      }
+    ],
+    "type": {
+      "key": "/type/work"
+    },
+    "revision": 1
+  },
+  {
+    "title": "Cherny\u012b obelisk",
+    "created": {
+      "type": "/type/datetime",
+      "value": "2010-09-24T11:30:31.304952"
+    },
+    "subject_places": [
+      "Germany"
+    ],
+    "last_modified": {
+      "type": "/type/datetime",
+      "value": "2010-09-24T11:30:31.304952"
+    },
+    "latest_revision": 1,
+    "key": "/works/OL15381088W",
+    "authors": [
+      {
+        "type": {
+          "key": "/type/author_role"
+        },
+        "author": {
+          "key": "/authors/OL122169A"
+        }
+      }
+    ],
+    "subject_times": [
+      "1918-1933"
+    ],
+    "type": {
+      "key": "/type/work"
+    },
+    "subjects": [
+      "Fiction",
+      "Youth",
+      "Conduct of life",
+      "History"
+    ],
+    "revision": 1
+  },
+  {
+    "title": "Chiren hzuu",
+    "created": {
+      "type": "/type/datetime",
+      "value": "2010-09-24T11:30:33.454343"
+    },
+    "last_modified": {
+      "type": "/type/datetime",
+      "value": "2010-09-24T11:30:33.454343"
+    },
+    "latest_revision": 1,
+    "key": "/works/OL15381089W",
+    "authors": [
+      {
+        "type": {
+          "key": "/type/author_role"
+        },
+        "author": {
+          "key": "/authors/OL122169A"
+        }
+      }
+    ],
+    "type": {
+      "key": "/type/work"
+    },
+    "revision": 1
+  },
+  {
+    "title": "Czarny obelisk",
+    "created": {
+      "type": "/type/datetime",
+      "value": "2010-09-24T11:30:34.728751"
+    },
+    "last_modified": {
+      "type": "/type/datetime",
+      "value": "2010-09-24T11:30:34.728751"
+    },
+    "latest_revision": 1,
+    "key": "/works/OL15381090W",
+    "authors": [
+      {
+        "type": {
+          "key": "/type/author_role"
+        },
+        "author": {
+          "key": "/authors/OL122169A"
+        }
+      }
+    ],
+    "type": {
+      "key": "/type/work"
+    },
+    "revision": 1
+  },
+  {
+    "title": "De hemel kent geen gunstelingen",
+    "created": {
+      "type": "/type/datetime",
+      "value": "2010-09-24T11:30:35.953277"
+    },
+    "last_modified": {
+      "type": "/type/datetime",
+      "value": "2010-09-24T11:30:35.953277"
+    },
+    "latest_revision": 1,
+    "key": "/works/OL15381091W",
+    "authors": [
+      {
+        "type": {
+          "key": "/type/author_role"
+        },
+        "author": {
+          "key": "/authors/OL122169A"
+        }
+      }
+    ],
+    "type": {
+      "key": "/type/work"
+    },
+    "revision": 1
+  },
+  {
+    "subtitle": "\"Road back\" no anuva\u0304da",
+    "title": "Gharane ma\u0304rage",
+    "created": {
+      "type": "/type/datetime",
+      "value": "2010-09-24T11:30:43.559414"
+    },
+    "last_modified": {
+      "type": "/type/datetime",
+      "value": "2010-09-24T11:30:43.559414"
+    },
+    "latest_revision": 1,
+    "key": "/works/OL15381095W",
+    "authors": [
+      {
+        "type": {
+          "key": "/type/author_role"
+        },
+        "author": {
+          "key": "/authors/OL122169A"
+        }
+      }
+    ],
+    "type": {
+      "key": "/type/work"
+    },
+    "revision": 1
+  },
+  {
+    "title": "G\u0117m",
+    "created": {
+      "type": "/type/datetime",
+      "value": "2010-09-24T11:30:44.426857"
+    },
+    "subject_places": [
+      "Orient"
+    ],
+    "last_modified": {
+      "type": "/type/datetime",
+      "value": "2010-09-24T11:30:44.426857"
+    },
+    "latest_revision": 1,
+    "key": "/works/OL15381096W",
+    "authors": [
+      {
+        "type": {
+          "key": "/type/author_role"
+        },
+        "author": {
+          "key": "/authors/OL122169A"
+        }
+      }
+    ],
+    "type": {
+      "key": "/type/work"
+    },
+    "subjects": [
+      "Fiction",
+      "Women",
+      "Travel",
+      "Conduct of life"
+    ],
+    "revision": 1
+  },
+  {
+    "title": "Herbstfahrt eines Phantasten. Erz\u00e4hlungen und Essays",
+    "created": {
+      "type": "/type/datetime",
+      "value": "2010-09-24T11:30:45.252691"
+    },
+    "last_modified": {
+      "type": "/type/datetime",
+      "value": "2010-09-24T11:30:45.252691"
+    },
+    "latest_revision": 1,
+    "key": "/works/OL15381097W",
+    "authors": [
+      {
+        "type": {
+          "key": "/type/author_role"
+        },
+        "author": {
+          "key": "/authors/OL122169A"
+        }
+      }
+    ],
+    "type": {
+      "key": "/type/work"
+    },
+    "revision": 1
+  },
+  {
+    "title": "Life on loan, 1859 (IN RUSSIAN LANGUAGE) / (ZHizn vzajmy / \u001a\u001a\u001a\u001a\u001a \u001a\u001a\u001a\u001a\u001a\u001a / Geborgtes Leben; Der Himmel kennt keine G\u00fcnstlinge (1959/61))",
+    "created": {
+      "type": "/type/datetime",
+      "value": "2010-09-24T11:30:54.575397"
+    },
+    "last_modified": {
+      "type": "/type/datetime",
+      "value": "2010-09-24T11:30:54.575397"
+    },
+    "latest_revision": 1,
+    "key": "/works/OL15381102W",
+    "authors": [
+      {
+        "type": {
+          "key": "/type/author_role"
+        },
+        "author": {
+          "key": "/authors/OL122169A"
+        }
+      }
+    ],
+    "type": {
+      "key": "/type/work"
+    },
+    "revision": 1
+  },
+  {
+    "created": {
+      "type": "/type/datetime",
+      "value": "2010-09-24T11:30:57.571197"
+    },
+    "title": "L'ob\u00e9lisque noir",
+    "last_modified": {
+      "type": "/type/datetime",
+      "value": "2010-09-24T11:30:57.571197"
+    },
+    "latest_revision": 1,
+    "key": "/works/OL15381103W",
+    "authors": [
+      {
+        "type": {
+          "key": "/type/author_role"
+        },
+        "author": {
+          "key": "/authors/OL122169A"
+        }
+      }
+    ],
+    "type": {
+      "key": "/type/work"
+    },
+    "revision": 1
+  },
+  {
+    "title": "Lua thuong ye u lus nguc tu",
+    "created": {
+      "type": "/type/datetime",
+      "value": "2010-09-24T11:30:59.142742"
+    },
+    "last_modified": {
+      "type": "/type/datetime",
+      "value": "2010-09-24T11:30:59.142742"
+    },
+    "latest_revision": 1,
+    "key": "/works/OL15381104W",
+    "authors": [
+      {
+        "type": {
+          "key": "/type/author_role"
+        },
+        "author": {
+          "key": "/authors/OL122169A"
+        }
+      }
+    ],
+    "type": {
+      "key": "/type/work"
+    },
+    "revision": 1
+  },
+  {
+    "subtitle": "eine Ziet zu leben und eine Zeit zu sterben.",
+    "title": "Mo t tho  i de  ye u va   mo t tho  i de  che t =",
+    "created": {
+      "type": "/type/datetime",
+      "value": "2010-09-24T11:31:00.162796"
+    },
+    "last_modified": {
+      "type": "/type/datetime",
+      "value": "2010-09-24T11:31:00.162796"
+    },
+    "latest_revision": 1,
+    "key": "/works/OL15381105W",
+    "authors": [
+      {
+        "type": {
+          "key": "/type/author_role"
+        },
+        "author": {
+          "key": "/authors/OL122169A"
+        }
+      }
+    ],
+    "type": {
+      "key": "/type/work"
+    },
+    "revision": 1
+  },
+  {
+    "created": {
+      "type": "/type/datetime",
+      "value": "2010-09-24T11:31:11.845480"
+    },
+    "title": "Shadows in Paradise, 1971 (IN RUSSIAN LANGUAGE) (Teni v raju / Schatten im Paradies / \u001a\u001a\u001a\u001a \u001a \u001a\u001a\u001a)",
+    "last_modified": {
+      "type": "/type/datetime",
+      "value": "2010-09-24T11:31:11.845480"
+    },
+    "latest_revision": 1,
+    "key": "/works/OL15381113W",
+    "authors": [
+      {
+        "type": {
+          "key": "/type/author_role"
+        },
+        "author": {
+          "key": "/authors/OL122169A"
+        }
+      }
+    ],
+    "type": {
+      "key": "/type/work"
+    },
+    "revision": 1
+  },
+  {
+    "title": "Sheng si cun wang de shi dai",
+    "created": {
+      "type": "/type/datetime",
+      "value": "2010-09-24T11:31:12.561924"
+    },
+    "last_modified": {
+      "type": "/type/datetime",
+      "value": "2010-09-24T11:31:12.561924"
+    },
+    "latest_revision": 1,
+    "key": "/works/OL15381114W",
+    "authors": [
+      {
+        "type": {
+          "key": "/type/author_role"
+        },
+        "author": {
+          "key": "/authors/OL122169A"
+        }
+      }
+    ],
+    "type": {
+      "key": "/type/work"
+    },
+    "revision": 1
+  },
+  {
+    "title": "Teni v rai\ufe20u\ufe21",
+    "created": {
+      "type": "/type/datetime",
+      "value": "2010-09-24T11:31:14.181180"
+    },
+    "last_modified": {
+      "type": "/type/datetime",
+      "value": "2010-09-24T11:31:14.181180"
+    },
+    "latest_revision": 1,
+    "key": "/works/OL15381115W",
+    "authors": [
+      {
+        "type": {
+          "key": "/type/author_role"
+        },
+        "author": {
+          "key": "/authors/OL122169A"
+        }
+      }
+    ],
+    "type": {
+      "key": "/type/work"
+    },
+    "revision": 1
+  },
+  {
+    "title": "Arch of Triumph",
+    "created": {
+      "type": "/type/datetime",
+      "value": "2009-12-10T22:26:00.483941"
+    },
+    "last_modified": {
+      "type": "/type/datetime",
+      "value": "2012-06-18T00:45:46.991765"
+    },
+    "latest_revision": 3,
+    "key": "/works/OL8128081W",
+    "authors": [
+      {
+        "type": {
+          "key": "/type/author_role"
+        },
+        "author": {
+          "key": "/authors/OL122169A"
+        }
+      }
+    ],
+    "type": {
+      "key": "/type/work"
+    },
+    "revision": 3
+  },
+  {
+    "title": "A Time to Live and a Time to Die, 1954 (IN RUSSIAN LANGUAGE) / Zeit zu leben und Zeit zu sterben / Vremja zhit i vremja umirat",
+    "created": {
+      "type": "/type/datetime",
+      "value": "2009-12-10T22:26:00.483941"
+    },
+    "last_modified": {
+      "type": "/type/datetime",
+      "value": "2010-09-24T11:29:00.601161"
+    },
+    "latest_revision": 2,
+    "key": "/works/OL8128100W",
+    "authors": [
+      {
+        "type": {
+          "key": "/type/author_role"
+        },
+        "author": {
+          "key": "/authors/OL122169A"
+        }
+      }
+    ],
+    "type": {
+      "key": "/type/work"
+    },
+    "revision": 2
+  },
+  {
+    "subtitle": "novela",
+    "title": "Sin Novedad En El Frente",
+    "created": {
+      "type": "/type/datetime",
+      "value": "2009-12-10T22:26:00.483941"
+    },
+    "last_modified": {
+      "type": "/type/datetime",
+      "value": "2010-09-24T11:32:04.923403"
+    },
+    "latest_revision": 3,
+    "key": "/works/OL8128109W",
+    "authors": [
+      {
+        "type": {
+          "key": "/type/author_role"
+        },
+        "author": {
+          "key": "/authors/OL122169A"
+        }
+      }
+    ],
+    "type": {
+      "key": "/type/work"
+    },
+    "revision": 3
+  },
+  {
+    "created": {
+      "type": "/type/datetime",
+      "value": "2009-12-10T22:26:00.483941"
+    },
+    "title": "All Quiet on the Western Front (Pacemaker Classics (Audio))",
+    "last_modified": {
+      "type": "/type/datetime",
+      "value": "2010-09-24T11:29:00.601161"
+    },
+    "latest_revision": 2,
+    "key": "/works/OL8128075W",
+    "authors": [
+      {
+        "type": {
+          "key": "/type/author_role"
+        },
+        "author": {
+          "key": "/authors/OL122169A"
+        }
+      }
+    ],
+    "type": {
+      "key": "/type/work"
+    },
+    "revision": 2
+  },
+  {
+    "created": {
+      "type": "/type/datetime",
+      "value": "2009-12-10T22:26:00.483941"
+    },
+    "title": "Sag mir, da\u00df du mich liebst. CD",
+    "covers": [
+      3204205
+    ],
+    "last_modified": {
+      "type": "/type/datetime",
+      "value": "2010-09-24T11:29:00.601161"
+    },
+    "latest_revision": 3,
+    "key": "/works/OL8128096W",
+    "authors": [
+      {
+        "type": {
+          "key": "/type/author_role"
+        },
+        "author": {
+          "key": "/authors/OL122169A"
+        }
+      }
+    ],
+    "type": {
+      "key": "/type/work"
+    },
+    "revision": 3
+  },
+  {
+    "title": "Arc de Triomphe.  Roman",
+    "created": {
+      "type": "/type/datetime",
+      "value": "2009-12-10T22:26:00.483941"
+    },
+    "last_modified": {
+      "type": "/type/datetime",
+      "value": "2010-09-24T11:29:00.601161"
+    },
+    "latest_revision": 2,
+    "key": "/works/OL8128079W",
+    "authors": [
+      {
+        "type": {
+          "key": "/type/author_role"
+        },
+        "author": {
+          "key": "/authors/OL122169A"
+        }
+      }
+    ],
+    "type": {
+      "key": "/type/work"
+    },
+    "revision": 2
+  },
+  {
+    "created": {
+      "type": "/type/datetime",
+      "value": "2009-12-10T22:26:00.483941"
+    },
+    "title": "Sin novedad en el frente/All quiet on the western front",
+    "last_modified": {
+      "type": "/type/datetime",
+      "value": "2010-09-24T11:29:00.601161"
+    },
+    "latest_revision": 2,
+    "key": "/works/OL8128099W",
+    "authors": [
+      {
+        "type": {
+          "key": "/type/author_role"
+        },
+        "author": {
+          "key": "/authors/OL122169A"
+        }
+      }
+    ],
+    "type": {
+      "key": "/type/work"
+    },
+    "revision": 2
+  },
+  {
+    "created": {
+      "type": "/type/datetime",
+      "value": "2009-12-10T22:26:00.483941"
+    },
+    "title": "All Quiet on the Western Front",
+    "last_modified": {
+      "type": "/type/datetime",
+      "value": "2010-12-01T20:06:26.535787"
+    },
+    "latest_revision": 3,
+    "key": "/works/OL8128076W",
+    "authors": [
+      {
+        "type": {
+          "key": "/type/author_role"
+        },
+        "author": {
+          "key": "/authors/OL122169A"
+        }
+      }
+    ],
+    "type": {
+      "key": "/type/work"
+    },
+    "revision": 3
+  },
+  {
+    "title": "Der schwarze Obelisk. Geschichte einer versp\u00e4teten Jugend",
+    "created": {
+      "type": "/type/datetime",
+      "value": "2009-12-10T22:26:00.483941"
+    },
+    "covers": [
+      1010980
+    ],
+    "last_modified": {
+      "type": "/type/datetime",
+      "value": "2010-09-24T11:29:00.601161"
+    },
+    "latest_revision": 3,
+    "key": "/works/OL8128085W",
+    "authors": [
+      {
+        "type": {
+          "key": "/type/author_role"
+        },
+        "author": {
+          "key": "/authors/OL122169A"
+        }
+      }
+    ],
+    "type": {
+      "key": "/type/work"
+    },
+    "revision": 3
+  },
+  {
+    "title": "Arch of Triumph / Triumfal'naya arka",
+    "created": {
+      "type": "/type/datetime",
+      "value": "2009-12-10T22:26:00.483941"
+    },
+    "last_modified": {
+      "type": "/type/datetime",
+      "value": "2010-09-24T11:29:00.601161"
+    },
+    "latest_revision": 2,
+    "key": "/works/OL8128080W",
+    "authors": [
+      {
+        "type": {
+          "key": "/type/author_role"
+        },
+        "author": {
+          "key": "/authors/OL122169A"
+        }
+      }
+    ],
+    "type": {
+      "key": "/type/work"
+    },
+    "revision": 2
+  },
+  {
+    "title": "Im Westen nicht Neues. Gro\u00dfdruck",
+    "created": {
+      "type": "/type/datetime",
+      "value": "2009-12-10T22:26:00.483941"
+    },
+    "last_modified": {
+      "type": "/type/datetime",
+      "value": "2010-09-24T11:29:00.601161"
+    },
+    "latest_revision": 2,
+    "key": "/works/OL8128089W",
+    "authors": [
+      {
+        "type": {
+          "key": "/type/author_role"
+        },
+        "author": {
+          "key": "/authors/OL122169A"
+        }
+      }
+    ],
+    "type": {
+      "key": "/type/work"
+    },
+    "revision": 2
+  },
+  {
+    "title": "Tri tovarischa",
+    "created": {
+      "type": "/type/datetime",
+      "value": "2009-12-10T22:26:00.483941"
+    },
+    "last_modified": {
+      "type": "/type/datetime",
+      "value": "2010-09-24T11:29:00.601161"
+    },
+    "latest_revision": 2,
+    "key": "/works/OL8128102W",
+    "authors": [
+      {
+        "type": {
+          "key": "/type/author_role"
+        },
+        "author": {
+          "key": "/authors/OL122169A"
+        }
+      }
+    ],
+    "type": {
+      "key": "/type/work"
+    },
+    "revision": 2
+  },
+  {
+    "created": {
+      "type": "/type/datetime",
+      "value": "2009-12-10T22:26:00.483941"
+    },
+    "title": "A time to love and a time to die",
+    "covers": [
+      291253
+    ],
+    "last_modified": {
+      "type": "/type/datetime",
+      "value": "2010-09-24T11:32:20.475212"
+    },
+    "latest_revision": 4,
+    "key": "/works/OL8128101W",
+    "authors": [
+      {
+        "type": {
+          "key": "/type/author_role"
+        },
+        "author": {
+          "key": "/authors/OL122169A"
+        }
+      }
+    ],
+    "type": {
+      "key": "/type/work"
+    },
+    "subjects": [
+      "World War, 1939-1945",
+      "Fiction"
+    ],
+    "revision": 4
+  },
+  {
+    "title": "Schatten in Paradies",
+    "created": {
+      "type": "/type/datetime",
+      "value": "2009-12-10T22:26:00.483941"
+    },
+    "last_modified": {
+      "type": "/type/datetime",
+      "value": "2010-09-24T11:29:00.601161"
+    },
+    "latest_revision": 2,
+    "key": "/works/OL8128098W",
+    "authors": [
+      {
+        "type": {
+          "key": "/type/author_role"
+        },
+        "author": {
+          "key": "/authors/OL122169A"
+        }
+      }
+    ],
+    "type": {
+      "key": "/type/work"
+    },
+    "revision": 2
+  },
+  {
+    "created": {
+      "type": "/type/datetime",
+      "value": "2009-12-10T22:26:00.483941"
+    },
+    "title": "Der Weg Zuruck",
+    "covers": [
+      1010982
+    ],
+    "last_modified": {
+      "type": "/type/datetime",
+      "value": "2010-09-24T11:29:00.601161"
+    },
+    "latest_revision": 3,
+    "key": "/works/OL8128105W",
+    "authors": [
+      {
+        "type": {
+          "key": "/type/author_role"
+        },
+        "author": {
+          "key": "/authors/OL122169A"
+        }
+      }
+    ],
+    "type": {
+      "key": "/type/work"
+    },
+    "revision": 3
+  },
+  {
+    "title": "Schwarze Obelisk",
+    "created": {
+      "type": "/type/datetime",
+      "value": "2009-12-10T22:26:00.483941"
+    },
+    "covers": [
+      957099
+    ],
+    "subject_places": [
+      "Germany"
+    ],
+    "last_modified": {
+      "type": "/type/datetime",
+      "value": "2012-11-28T11:19:21.916645"
+    },
+    "latest_revision": 8,
+    "key": "/works/OL8128082W",
+    "authors": [
+      {
+        "type": {
+          "key": "/type/author_role"
+        },
+        "author": {
+          "key": "/authors/OL122169A"
+        }
+      }
+    ],
+    "subject_times": [
+      "1918-1933"
+    ],
+    "type": {
+      "key": "/type/work"
+    },
+    "subjects": [
+      "Fiction",
+      "Youth",
+      "Conduct of life",
+      "History",
+      "Protected DAISY",
+      "In library"
+    ],
+    "revision": 8
+  },
+  {
+    "created": {
+      "type": "/type/datetime",
+      "value": "2009-12-10T22:26:00.483941"
+    },
+    "title": "Zeit zu leben und Zeit zu sterben. Roman",
+    "covers": [
+      1010981
+    ],
+    "last_modified": {
+      "type": "/type/datetime",
+      "value": "2010-09-24T11:29:00.601161"
+    },
+    "latest_revision": 3,
+    "key": "/works/OL8128104W",
+    "authors": [
+      {
+        "type": {
+          "key": "/type/author_role"
+        },
+        "author": {
+          "key": "/authors/OL122169A"
+        }
+      }
+    ],
+    "type": {
+      "key": "/type/work"
+    },
+    "revision": 3
+  },
+  {
+    "title": "Liebe Deinen N\u00e4chsten. Roman",
+    "created": {
+      "type": "/type/datetime",
+      "value": "2009-12-10T22:26:00.483941"
+    },
+    "covers": [
+      2207058
+    ],
+    "last_modified": {
+      "type": "/type/datetime",
+      "value": "2010-09-24T11:29:00.601161"
+    },
+    "latest_revision": 3,
+    "key": "/works/OL8128091W",
+    "authors": [
+      {
+        "type": {
+          "key": "/type/author_role"
+        },
+        "author": {
+          "key": "/authors/OL122169A"
+        }
+      }
+    ],
+    "type": {
+      "key": "/type/work"
+    },
+    "revision": 3
+  },
+  {
+    "description": {
+      "type": "/type/text",
+      "value": "This is the testament of Paul B\u00e4umer, who enlists with his classmates in the German army of World War I. These young men become enthusiastic soldiers, but their world of duty, culture, and progress breaks into pieces under the first bombardment in the trenches. \r\n\r\nThrough years of vivid horror, Paul holds fast to a single vow: to fight against the hatred that meaninglessly pits young men of the same generation but different uniforms against one another... if only he can come out of the war alive."
+    },
+    "title": "All Quiet Western Front",
+    "created": {
+      "type": "/type/datetime",
+      "value": "2009-12-10T22:26:00.483941"
+    },
+    "last_modified": {
+      "type": "/type/datetime",
+      "value": "2015-12-12T09:13:56.386171"
+    },
+    "latest_revision": 3,
+    "key": "/works/OL8128077W",
+    "authors": [
+      {
+        "type": {
+          "key": "/type/author_role"
+        },
+        "author": {
+          "key": "/authors/OL122169A"
+        }
+      }
+    ],
+    "type": {
+      "key": "/type/work"
+    },
+    "revision": 3
+  }
+]
