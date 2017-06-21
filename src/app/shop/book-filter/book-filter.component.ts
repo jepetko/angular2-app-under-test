@@ -1,6 +1,6 @@
 import {Component, OnInit, OnDestroy, EventEmitter, Output} from '@angular/core';
 import {FormControl} from '@angular/forms';
-import {Subscription} from 'rxjs';
+import {Subscription} from 'rxjs/Subscription';
 
 @Component({
   selector: 'app-book-filter',

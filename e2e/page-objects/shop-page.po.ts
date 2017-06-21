@@ -13,5 +13,4 @@ export class ShopPage {
     getListItemTexts() {
         return this.getListItems().getText();
     }
-
 }
