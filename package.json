@@ -43,6 +43,11 @@
     "protractor": "~5.1.2",
     "ts-node": "~3.0.4",
     "tslint": "~5.3.2",
-    "typescript": "~2.3.3"
+    "typescript": "~2.3.3",
+    "cucumber": "^2.0.0-rc.9",
+    "cucumberjs-junitxml": "^1.0.0",
+    "protractor-cucumber-framework": "^3.0.0",
+    "chai": "^3.5.0",
+    "chai-as-promised": "^5.3.0"
   }
 }

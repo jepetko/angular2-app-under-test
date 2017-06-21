@@ -4,25 +4,34 @@
 const { SpecReporter } = require('jasmine-spec-reporter');
 
 exports.config = {
-  allScriptsTimeout: 11000,
-  specs: [
-    './e2e/**/*.e2e-spec.ts'
-  ],
-  capabilities: {
-    'browserName': 'chrome'
-  },
-  directConnect: true,
-  baseUrl: 'http://localhost:4200/',
-  framework: 'jasmine',
-  jasmineNodeOpts: {
-    showColors: true,
-    defaultTimeoutInterval: 30000,
-    print: function() {}
-  },
-  onPrepare() {
-    require('ts-node').register({
-      project: 'e2e/tsconfig.e2e.json'
-    });
-    jasmine.getEnv().addReporter(new SpecReporter({ spec: { displayStacktrace: true } }));
-  }
+    allScriptsTimeout: 21000,
+    specs: [
+        './e2e/**/*.feature'
+    ],
+    cucumberOpts: {
+        require: ['./e2e/support/world.ts', './e2e/**/*.steps.ts'],
+        format: 'json:./e2e-report/protractor-cucumber-report.json',
+        tags: '~@ignore'
+    },
+    capabilities: {
+        'browserName': 'chrome'
+    },
+    directConnect: true,
+    baseUrl: 'http://localhost:4200/',
+    framework: 'custom',
+    frameworkPath: require.resolve('protractor-cucumber-framework'),
+    jasmineNodeOpts: {
+        showColors: true,
+        defaultTimeoutInterval: 30000,
+        print: function() {}
+    },
+    beforeLaunch: function() {
+        require('ts-node').register({
+            project: 'e2e/tsconfig.e2e.json'
+        });
+    },
+    onPrepare() {
+        // jasmine.getEnv().addReporter(new SpecReporter({ spec: { displayStacktrace: true } }));
+        // browser.manage().window().maximize();
+    }
 };
