@@ -4,6 +4,8 @@ jobs:
     docker:
       - image: golbie/ubuntu-docker-protractor:0.0.1
 
+    working_directory: .
+
     steps:
       - checkout
 
