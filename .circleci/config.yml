@@ -6,6 +6,7 @@ jobs:
 
     working_directory: ~/angular2-app-under-test
 
+
     steps:
       - checkout
 
