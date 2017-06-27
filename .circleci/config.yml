@@ -1,0 +1,11 @@
+version: 2.0
+jobs:
+  build:
+    docker:
+      - image: golbie/ubuntu-docker-protractor:0.0.1
+
+    steps:
+      - checkout
+
+      - run: |
+          sudo docker run --rm -v .:/project golbie:ubuntu-docker-protractor

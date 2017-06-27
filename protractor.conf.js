@@ -14,7 +14,14 @@ exports.config = {
         tags: '~@ignore'
     },
     capabilities: {
-        'browserName': 'chrome'
+        browserName: 'chrome',
+        chromeOptions: {
+            args: [
+                '--no-sandbox'
+            ],
+            prefs: {
+            }
+        }
     },
     directConnect: true,
     baseUrl: 'http://localhost:4200/',
