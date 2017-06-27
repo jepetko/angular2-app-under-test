@@ -11,4 +11,4 @@ jobs:
       - checkout
 
       - run: |
-          sudo docker run --rm -v ~/angular2-app-under-test:/project golbie:ubuntu-docker-protractor
+          docker run --rm -v ~/angular2-app-under-test:/project golbie:ubuntu-docker-protractor
