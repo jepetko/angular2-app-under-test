@@ -2,13 +2,13 @@ version: 2.0
 jobs:
   build:
     docker:
-      - image: golbie/ubuntu-docker-protractor:0.0.1
+      - image: ubuntu:xenial
 
     working_directory: ~/angular2-app-under-test
 
-
     steps:
       - checkout
+      - setup_remote_docker
 
       - run: |
           docker run --rm -v ~/angular2-app-under-test:/project golbie:ubuntu-docker-protractor
