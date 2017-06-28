@@ -2,7 +2,7 @@ version: 2.0
 jobs:
   build:
     docker:
-      - image: ubuntu:xenial
+      - image: docker:17.05.0-ce-git
 
     working_directory: ~/angular2-app-under-test
 
