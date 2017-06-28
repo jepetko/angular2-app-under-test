@@ -11,5 +11,5 @@ jobs:
       - setup_remote_docker
 
       - run: |
-          docker pull golbie/ubuntu-docker-protractor
-          docker run --rm -v ~/angular2-app-under-test:/project golbie:ubuntu-docker-protractor
+          docker pull golbie/ubuntu-docker-protractor:0.0.1
+          docker run --rm -v ~/angular2-app-under-test:/project golbie:ubuntu-docker-protractor:0.0.1
