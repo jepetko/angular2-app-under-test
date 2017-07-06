@@ -1,0 +1,13 @@
+sudo: required
+
+language: bash
+
+services:
+  - docker
+
+before_install:
+- docker pull golbie/ubuntu-docker-protractor:0.0.1
+- docker run --rm -v .:/project golbie/ubuntu-docker-protractor:0.0.1
+
+script:
+- echo 'have fun'
