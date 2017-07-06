@@ -7,7 +7,7 @@ services:
 
 before_install:
 - docker pull golbie/ubuntu-docker-protractor:0.0.1
-- docker run --rm -v $TRAVIS_BUILD_DIR/angular2-app-under-test:/project golbie/ubuntu-docker-protractor:0.0. ls -la
+- docker run --rm -v $TRAVIS_BUILD_DIR/angular2-app-under-test:/project golbie/ubuntu-docker-protractor:0.0.1 ls -la
 
 script:
 - console.log('docker executed')
