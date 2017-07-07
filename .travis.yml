@@ -6,8 +6,9 @@ services:
   - docker
 
 before_install:
+- npm install -g @angular/cli
 - docker pull golbie/ubuntu-docker-protractor:0.0.1
-- docker run --rm -v $TRAVIS_BUILD_DIR/angular2-app-under-test:/project golbie/ubuntu-docker-protractor:0.0.1 id
+- docker run --rm -v $TRAVIS_BUILD_DIR/angular2-app-under-test:/project golbie/ubuntu-docker-protractor:0.0.1
 
 script:
 - npm run test
