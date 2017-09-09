@@ -1,0 +1,18 @@
+<md-card>
+    <md-card-header>
+        <md-card-title>{{details.title}}</md-card-title>
+        <md-card-subtitle>
+            <md-chip-list>
+                <md-chip *ngFor="let author of details.authors" color="accent">
+                    {{author}}
+                </md-chip>
+            </md-chip-list>
+        </md-card-subtitle>
+    </md-card-header>
+    <img md-card-image [src]="details.imageLinks.thumbnail" [alt]="details.title" *ngIf="details.imageLinks">
+    <md-card-content>
+        <p>
+            {{details.description}}
+        </p>
+    </md-card-content>
+</md-card>

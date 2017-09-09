@@ -1,0 +1,12 @@
+{
+  "/books": {
+    "target":  {
+      "host": "www.googleapis.com",
+      "protocol": "https:",
+      "port": 443
+    },
+    "secure": true,
+    "changeOrigin": true,
+    "logLevel": "info"
+  }
+}

@@ -4,5 +4,6 @@
 // The list of which env maps to which file can be found in `.angular-cli.json`.
 
 export const environment = {
-  production: false
+  production: false,
+  GOOGLE_BOOKS_API_KEY: 'your_api_key'
 };

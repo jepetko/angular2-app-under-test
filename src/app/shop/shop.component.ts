@@ -1,20 +1,24 @@
 import {Component, OnInit} from '@angular/core';
+import {GoogleBooksAPI} from '../../../typings/google-books-api.def';
 
 @Component({
     selector: 'app-shop',
     template: `
-        <app-book-filter (filterChanged)="filterChanged($event)"></app-book-filter>
-        <app-book-list [filter]="filter"></app-book-list>
+        <app-suggest (onBookSelected)="showBookDetails($event)"></app-suggest>
+        <app-book-details
+            *ngIf="currentBookDetails"
+            [details]="currentBookDetails">
+        </app-book-details>
     `
 })
 export class ShopComponent implements OnInit {
 
-    filter: string;
+    currentBookDetails: GoogleBooksAPI.VolumeInfo;
 
     ngOnInit() {
     }
 
-    filterChanged(filter: string) {
-        this.filter = filter;
+    showBookDetails(details: GoogleBooksAPI.VolumeInfo) {
+        this.currentBookDetails = details;
     }
 }

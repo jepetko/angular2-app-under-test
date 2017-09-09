@@ -1,0 +1,9 @@
+<md-input-container>
+    <input type="text" mdInput [formControl]="control" [mdAutocomplete]="auto">
+</md-input-container>
+
+<md-autocomplete #auto="mdAutocomplete">
+    <md-option *ngFor="let option of options" [value]="option.title" (onSelectionChange)="optionSelected($event, option)">
+        {{ option.title }}
+    </md-option>
+</md-autocomplete>
