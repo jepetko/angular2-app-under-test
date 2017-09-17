@@ -3,13 +3,7 @@ import {GoogleBooksAPI} from '../../../typings/google-books-api.def';
 
 @Component({
     selector: 'app-shop',
-    template: `
-        <app-suggest (onBookSelected)="showBookDetails($event)"></app-suggest>
-        <app-book-details
-            *ngIf="currentBookDetails"
-            [details]="currentBookDetails">
-        </app-book-details>
-    `
+    templateUrl: './shop.component.html'
 })
 export class ShopComponent implements OnInit {
 
