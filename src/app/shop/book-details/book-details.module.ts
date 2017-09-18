@@ -7,7 +7,7 @@ import {BookDetailsComponent} from './book-details.component';
     imports: [CommonModule, MdCardModule, MdChipsModule],
     declarations: [BookDetailsComponent],
     exports: [BookDetailsComponent],
-    providers: [],
+    providers: []
 })
 export class BookDetailsModule {
 }

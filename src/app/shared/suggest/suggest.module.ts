@@ -8,7 +8,7 @@ import {SuggestComponent} from './suggest.component';
     imports: [CommonModule, ReactiveFormsModule, MdAutocompleteModule, MdInputModule],
     declarations: [SuggestComponent],
     exports: [SuggestComponent],
-    providers: [],
+    providers: []
 })
 export class SuggestModule {
 }

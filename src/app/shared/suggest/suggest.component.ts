@@ -1,8 +1,8 @@
 import {Component, Output, EventEmitter, OnInit} from '@angular/core';
 import {FormControl} from '@angular/forms';
-import {GoogleBooksAPIService} from '../../core/google-books-api.service';
-import 'rxjs/add/operator/debounceTime';
 import {MdOptionSelectionChange} from '@angular/material';
+import 'rxjs/add/operator/debounceTime';
+import {GoogleBooksAPIService} from '../../core/google-books-api.service';
 import {GoogleBooksAPI} from '../../../../typings/google-books-api.def';
 
 export enum SuggestSignal {
@@ -18,7 +18,8 @@ export interface SuggestEvent {
 
 @Component({
     selector: 'app-suggest',
-    templateUrl: 'suggest.component.html'
+    templateUrl: 'suggest.component.html',
+    styleUrls: ['./suggest.component.scss']
 })
 export class SuggestComponent implements OnInit {
     control = new FormControl('');

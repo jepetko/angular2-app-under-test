@@ -1,0 +1,7 @@
+:host {
+  flex: 1;
+
+  /deep/ .mat-input-container {
+    width: 100%;
+  }
+}
