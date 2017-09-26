@@ -1,6 +1,6 @@
 machine:
     node:
-        version: 7.9.0
+        version: 8.1.4
 test:
   override:
     - ng test --watch=false
