@@ -1,5 +1,7 @@
 # Angular2AppUnderTest: Google Books API + Google Books Viewer + fakeAsync + test schedulers
 
+[![CircleCI](https://circleci.com/gh/jepetko/angular2-app-under-test.svg?style=svg)](https://circleci.com/gh/jepetko/angular2-app-under-test)
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.1.2.
 
 It uses:
