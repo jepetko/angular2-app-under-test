@@ -1,28 +1,42 @@
-# Angular2AppUnderTest
+# Angular2AppUnderTest: Google Books API + Google Books Viewer + fakeAsync + test schedulers
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.1.2.
 
-## Development server
+It uses:
+* [Google Books API](https://developers.google.com/books/docs/v1/using)
+* [Google Books Viewer](https://developers.google.com/books/docs/viewer/developers_guide)
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+It shows how to:
+* take advantage of the fakeAsync testing approach
+* fix timing issues by sharing the same time between the zone and RxJs
+* inject your own schedulers in order to test RxJs events
 
-## Code scaffolding
+## How to start
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|module`.
+Since the Google Books API need to be "proxied" via proxy.conf file you need to start the server by issuing
+`npm run start`.
 
-## Build
+Nevertheless, Google Books API might or might not work without the API key. The API key is secret and therefore not under version control.
+A custom environment file is being used to add the Google API key:
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `-prod` flag for a production build.
+1. create the file `./src/environments/environment.custom.ts`
+2. add this content:
+```typescript
+export const environment = {
+    production: false,
+    GOOGLE_BOOKS_API_KEY: 'your_api_key'
+};
+```
+3. execute `npm run start-custom`
 
-## Running unit tests
+## How to test
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+execute the tests as usual: `ng test`
 
-## Running end-to-end tests
+## Hints to files you might be interested in
 
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
-Before running the tests make sure you are serving the app via `ng serve`.
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+* `src/app/internals/fake-zone-and-test-scheduler-test.spec.ts`: helps to understand the `fakeAsync` utility and demonstrates the usage of the own scheduler
+* `src/app/internals/async-zone-time-in-sync-keeper.utils.ts`: introduces the "in-sync-keeper" utility for fixing `fakeAsync` timing issues
+* `src/app/internals/spying-test-scheduler.ts`: custom RxJs test scheduler
+* `src/app/internals/monkey-patch-scheduler.utils.ts`: injects the spying test scheduler for testing purposes
+* `**/*.spec.ts`: the actual usage of the testing utilities mentioned above
