@@ -5,7 +5,7 @@
   "scripts": {
     "ng": "ng",
     "start": "ng serve --proxy-conf proxy.conf.json",
-    "start-custom": "ng server --proxy-conf proxy.conf.json --env=custom",
+    "start-custom": "ng serve --proxy-conf proxy.conf.json --env=custom",
     "build": "ng build",
     "test": "ng test",
     "lint": "ng lint",
